@@ -1,5 +1,5 @@
 {
-    "name" : "bbear/excel",
+    "name" : "bbear/mbexcel",
     "license": "LGPL",
     "require": {
         "phpoffice/phpexcel": "^1.8",
